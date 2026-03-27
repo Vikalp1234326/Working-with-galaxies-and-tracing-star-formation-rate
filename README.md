@@ -8,4 +8,5 @@ Here you can find codes to work with multi wavelength datasets for M51 galaxy. F
 3. Following this all the calculations for star formation rate and sigma star formation rate can be found. All the equations are given in form of comment where the formula is being used.
 4. Once the calculations are perfomed successfully all the plots made using these calculations are shown from the second SFR_Plots.ipynb file plots.ipynb . (Note: In the SFR_Plots.ipynb file first you can use the codes shown in SFR_calculation.ipynb file and perform the calculations and then move to construction of plots of visualization.)
 5. In the file SFR_radial_trends_plots.ipynb you will the construction of plots that can be used for making radial variation trend plot in SFR, identification of outliers with high value of SFR and construction of contour plots.
-6. 
+6. In the file Sigma_SFR_comparision.ipynb you will find the codes for comparision of sigma SFR for the tracers by using the intensity values and making the ratio plots with respect to the sigma SFR values. The code also contains comparision plots of sigma SFR with extinction calculated using Balmer decrement method with Venga data.
+7. Sigma_SFR_comparision.ipynb also contains the KDE plots with best fit and 1:1 relation of the data present in the file. 
